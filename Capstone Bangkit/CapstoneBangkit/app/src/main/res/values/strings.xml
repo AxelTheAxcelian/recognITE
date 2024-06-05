@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Capstone Bangkit</string>
+    <string name="welcome_app">Welcome to \n RecognITE</string>
+    <string name="desc_welcome">Choose one option to continue</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+</resources>
